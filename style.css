@@ -1,0 +1,21 @@
+
+
+html { 
+    background: url(depositphotos_91467558-stock-photo-the-perfect-christmas-background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  }
+
+
+  .container h1 {
+      color: crimson;
+      font-family: 'Mountains of Christmas', cursive;
+      font-size: 5rem;
+      display: flex;
+      height: 70%;
+      align-items: center;
+      justify-content: center;
+  }
